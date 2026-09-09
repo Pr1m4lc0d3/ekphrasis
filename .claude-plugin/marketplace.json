@@ -1,0 +1,36 @@
+{
+  "name": "ekphrasis",
+  "owner": {
+    "name": "Ryan Heltemes",
+    "url": "https://ryan-heltemes.com"
+  },
+  "metadata": {
+    "description": "Adjectives are how slop is made, not how it is cured.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ekphrasis",
+      "source": "./",
+      "description": "A method for writing image and animation prompts that produce a picture instead of the average: name the subject, fix the light, restrict the medium, say what it is not. Includes the legibility tell, the reason generated images rotate documents to face the camera, and the contact-sheet method for animation that does not jitter.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ryan Heltemes",
+        "url": "https://ryan-heltemes.com"
+      },
+      "homepage": "https://github.com/Pr1m4lc0d3/ekphrasis",
+      "repository": "https://github.com/Pr1m4lc0d3/ekphrasis",
+      "license": "MIT",
+      "keywords": [
+        "image-generation",
+        "prompt-engineering",
+        "ai-art",
+        "midjourney",
+        "flux",
+        "dall-e",
+        "animation",
+        "skills"
+      ]
+    }
+  ]
+}
