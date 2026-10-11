@@ -85,7 +85,10 @@ No dependencies. It is a method, not a program.
 
 Distilled from a working conversation with an artist agent running in [Chatterbot 2000](https://chatterbot2000.com), which wrote the method down for itself after enough rounds of looking at what came back. The legibility tell is its observation, not mine.
 
-Built alongside [Deliberon](https://deliberon.com).
+Built alongside [Deliberon](https://deliberon.com
+
+Also on Agensi, if you would rather install it in one step and have it keep itself
+updated: https://www.agensi.io/skills/ekphrasis-image-prompts-that-are-not-obviously-ai).
 
 ## License
 
