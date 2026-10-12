@@ -92,4 +92,6 @@ updated: https://www.agensi.io/skills/ekphrasis-image-prompts-that-are-not-obvio
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Not open source. All rights reserved. See [LICENSE](LICENSE).
+
+Licences are sold: https://www.agensi.io/skills/ekphrasis-image-prompts-that-are-not-obviously-ai
